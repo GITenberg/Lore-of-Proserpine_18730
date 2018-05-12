@@ -1,0 +1,34 @@
+_repo: Lore-of-Proserpine_18730
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hewlett, Maurice
+    alias: Hewlett, Maurice Henry
+    birthdate: 1861
+    deathdate: 1923
+    gutenberg_agent_id: '1864'
+    url: http://www.gutenberg.org/2009/agents/1864
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Hewlett
+description: ''
+gutenberg_issued: '2006-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18730'
+  lccn: '13007848'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Supernatural -- Fiction'
+- !lcsh 'Fantasy literature'
+- !lcsh 'Short stories'
+tableOfContents: The windows -- A boy in the wood -- Harkness's fancy -- The gods
+  in the schoolhouse -- The soul at the window -- Quidnunc -- The secret commonwealth
+  -- Beckwith's case -- The fairy wife -- Oreads -- A summary chapter.
+title: Lore of Proserpine
+url: http://www.gutenberg.org/ebooks/18730
